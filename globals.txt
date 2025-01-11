@@ -1,0 +1,5 @@
+Globals == NO WINDOW
+
+__dirname - path to current directory
+__filename - file name
+require - function
